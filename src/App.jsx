@@ -1,6 +1,6 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { fetchDataFromApi } from "./utils/api";
-import { useSelector, useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { getApiConfiguration, getGenres } from "./store/homeSlice";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
