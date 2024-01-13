@@ -66,7 +66,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ## App Demo
 
-![Demo](https://github.com/Pravin69/movie-remix/blob/main/demo/Video.mp4)
+![Demo](https://github.com/Pravin69/movie-remix/blob/main/demo/app-gif.gif?raw=true)
 
 ## You may also like... 🙂
 
