@@ -52,15 +52,15 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 # Go into the repository
   cd movie-remix
 
-# Install client dependencies
-  cd client
+# Install app dependencies
   npm install
 
-# Configure environment variables by creating .env file in the client directory and copy the content of env.example file in .env file, and fill it with your own secrets.
+# Set up your Tmdb account
+
+# Configure environment variables by creating .env file in the directory and copy the content of env.example file in .env file, and fill it with your own secrets.
   cp env.example .env
 
-# Start client in another terminal while server is running.
-  cd client/
+# Start app in  terminal.
   npm run dev
 ```
 
